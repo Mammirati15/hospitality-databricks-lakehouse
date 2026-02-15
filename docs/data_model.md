@@ -21,6 +21,7 @@ Table: gold_daily_hotel_metrics
 Grain: 1 row per hotel per day  
 Purpose:
 - Total bookings
-- Total revenue
+- Total revenue (realized + potential depending on cancellation handling)
 - Cancellation rate
-- Average daily rate (ADR proxy)
+- Average ADR
+- Average booking value
