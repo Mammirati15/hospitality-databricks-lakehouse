@@ -2,7 +2,7 @@
 
 This project builds a hospitality analytics platform using Databricks, Delta Lake, SQL, PySpark. 
 
-Primary Goals
+Primary Goals 
 - Design Bronze / Silver / Gold data layers
 - Practice advanced SQL analytics
 - Build business ready metrics
