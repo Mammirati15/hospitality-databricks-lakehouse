@@ -24,3 +24,6 @@ We will track two revenue concepts:
 - Track as:
   - avg_adr_all = average adr across all bookings
   - avg_adr_realized = average adr where is_canceled = 0
+
+## Next build step
+Implement Bronze → Silver in Databricks, then run Gold aggregation query to populate gold_daily_hotel_metrics.
